@@ -2,4 +2,5 @@
 public class class_1 {
 
 	int one = 1;
+	int two = 2;
 }
